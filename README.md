@@ -7,9 +7,9 @@ For a single console app
 3. to install selnium, go to VS -> project -> Manage NuGet package -> selenium
 4. Install Geckodriver: download it and set PATH, restart VS
 
-example code
+example code    
 
-using System.Linq;
+```using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using OpenQA.Selenium;
